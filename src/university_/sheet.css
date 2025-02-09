@@ -1,0 +1,36 @@
+.title{
+  -fx-font-size: 20px;
+    -fx-font-weight:bold;
+    -fx-text-fill:#2B65EC;
+    -fx-font-family: Arial ;
+}
+
+.label{
+    -fx-font-size:15px;
+   -fx-text-fill:#000000;
+    -fx-font-family: Arial ;
+
+}
+.label:hover{
+    -fx-text-fill: #6F4E37;
+    -fx-font-family: Arial ;
+
+}
+.button{
+    -fx-font-size:15px;
+    -fx-text-fill:#FFFFFF;
+    -fx-font-family: Arial ;
+-fx-background-color:#6F4E37;
+}
+.root{
+    -fx-background-color: #ecd5cf;
+}
+.button:hover{
+    -fx-background-color: #8a6247;
+}
+.text-field{
+    -fx-background-color:#8a6247;
+    -fx-font-family: Arial;
+    -fx-text-fill: #ecd5cf ;
+
+}
